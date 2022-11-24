@@ -1,0 +1,23 @@
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59.245" height="60.835" viewBox="0 0 59.245 60.835">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="bgicon" d="M47.621,8.034C33.489-5.927,21.45.422,19.356,11.058S-2.2,23.817.205,36.38s28.573,5.1,28.573,16.488S59.036,63.86,59.036,48.942,61.754,21.994,47.621,8.034Z" transform="translate(0 0)" fill="rgba(255,255,255,0.2)"/>
+    </clipPath>
+  </defs>
+  <g id="bgicon-2" data-name="bgicon" transform="translate(0 0)">
+    <path id="bgicon-3" data-name="bgicon" d="M47.621,8.034C33.489-5.927,21.45.422,19.356,11.058S-2.2,23.817.205,36.38s28.573,5.1,28.573,16.488S59.036,63.86,59.036,48.942,61.754,21.994,47.621,8.034Z" transform="translate(0 0)" fill="rgba(255,255,255,0.2)"/>
+    <g id="bgicon-4" data-name="bgicon" clip-path="url(#clip-path)">
+      <g id="Color_Blue" data-name="Color/Blue" transform="translate(0.352 0.16)" opacity="0.2">
+        <rect id="Rectangle" width="59" height="60.553" transform="translate(0)" fill="#459eff"/>
+      </g>
+    </g>
+  </g>
+  <g id="noun-connection-1360495" transform="translate(-82.797 -7.087)">
+    <path id="Path_1993" data-name="Path 1993" d="M272.946,32.031a8.127,8.127,0,1,1,5.747-2.386,8.121,8.121,0,0,1-5.747,2.386Zm0-14.1a5.992,5.992,0,1,0,4.224,1.747,5.986,5.986,0,0,0-4.224-1.747Z" transform="translate(-156.141)" fill="#022852"/>
+    <path id="Path_1994" data-name="Path 1994" d="M100.353,390.042a8.127,8.127,0,1,1,5.731-2.375,8.121,8.121,0,0,1-5.731,2.375Zm0-14.1a5.991,5.991,0,1,0,4.233,1.762,5.986,5.986,0,0,0-4.233-1.762Z" transform="translate(0 -323.874)" fill="#022852"/>
+    <path id="Path_1995" data-name="Path 1995" d="M445.387,306.041a8.128,8.128,0,1,1,5.727-2.377,8.12,8.12,0,0,1-5.727,2.377Zm0-14.1a5.991,5.991,0,1,0,4.23,1.764,5.984,5.984,0,0,0-4.23-1.764Z" transform="translate(-312.13 -247.883)" fill="#022852"/>
+    <path id="Path_1996" data-name="Path 1996" d="M247.15,385.188l19.222-8.013.822,1.971-19.222,8.013Z" transform="translate(-140.152 -326.928)" fill="#022852"/>
+    <path id="Path_1997" data-name="Path 1997" d="M377.8,159.875l1.76-1.209,9.515,13.85-1.76,1.209Z" transform="translate(-258.344 -129.254)" fill="#022852"/>
+    <path id="Path_1998" data-name="Path 1998" d="M202.9,182.377l9.509-21.857,1.958.852-9.509,21.857Z" transform="translate(-100.121 -130.932)" fill="#022852"/>
+  </g>
+</svg>

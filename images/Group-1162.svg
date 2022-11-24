@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="197.72" height="41.247" viewBox="0 0 197.72 41.247">
+  <g id="Group_1162" data-name="Group 1162" transform="translate(-31.001 6.5)">
+    <g id="Group_1162-2" data-name="Group 1162" transform="translate(31.001 -6.5)">
+      <g id="Group_3182" data-name="Group 3182">
+        <g id="AIML_NEpal_Logo_White" data-name="AIML NEpal Logo White" transform="translate(0)">
+          <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="8.413" cy="9.215" rx="8.413" ry="9.215" transform="translate(11.991 11.6)" fill="#022852"/>
+          <g id="Group_3174" data-name="Group 3174" transform="translate(13.244 0)">
+            <circle id="Ellipse_12" data-name="Ellipse 12" cx="2.468" cy="2.468" r="2.468" transform="translate(4.72)" fill="#022852"/>
+            <path id="Path_2039" data-name="Path 2039" d="M-16346.724-4018.807c2.192,1.266,6.749,6.978,14.385.066C-16333.81-4013.247-16341.99-4008.671-16346.724-4018.807Z" transform="translate(16346.724 4022.053)" fill="#022852"/>
+          </g>
+          <g id="Group_3176" data-name="Group 3176" transform="translate(40.917 13.384) rotate(90)">
+            <circle id="Ellipse_12-2" data-name="Ellipse 12" cx="2.468" cy="2.468" r="2.468" transform="translate(4.72 0)" fill="#022852"/>
+            <path id="Path_2039-2" data-name="Path 2039" d="M0,0C2.192,1.266,6.749,6.977,14.385.066,12.913,5.56,4.733,10.136,0,0Z" transform="translate(0 3.246)" fill="#022852"/>
+          </g>
+          <g id="Group_3177" data-name="Group 3177" transform="translate(9.257 13.384) rotate(90)">
+            <ellipse id="Ellipse_12-3" data-name="Ellipse 12" cx="2.468" cy="2.468" rx="2.468" ry="2.468" transform="translate(4.72 4.321)" fill="#022852"/>
+            <path id="Path_2039-3" data-name="Path 2039" d="M0,6.011C2.192,4.746,6.749-.966,14.385,5.945,12.913.451,4.733-4.124,0,6.011Z" transform="translate(0 0)" fill="#022852"/>
+          </g>
+          <g id="Group_3178" data-name="Group 3178" transform="translate(7.467 23.536) rotate(45)">
+            <ellipse id="Ellipse_12-4" data-name="Ellipse 12" cx="2.468" cy="2.468" rx="2.468" ry="2.468" transform="translate(4.72 4.321)" fill="#022852"/>
+            <path id="Path_2039-4" data-name="Path 2039" d="M0,6.011C2.192,4.746,6.749-.966,14.385,5.945,12.913.451,4.733-4.124,0,6.011Z" transform="translate(0 0)" fill="#022852"/>
+          </g>
+          <g id="Group_3179" data-name="Group 3179" transform="translate(40.041 30.082) rotate(135)">
+            <ellipse id="Ellipse_12-5" data-name="Ellipse 12" cx="2.468" cy="2.468" rx="2.468" ry="2.468" transform="translate(4.72 0)" fill="#022852"/>
+            <path id="Path_2039-5" data-name="Path 2039" d="M0,0C2.192,1.266,6.749,6.977,14.385.066,12.913,5.56,4.733,10.136,0,0Z" transform="translate(0 3.246)" fill="#022852"/>
+          </g>
+          <g id="Group_3180" data-name="Group 3180" transform="translate(33.495 17.756) rotate(-135)">
+            <ellipse id="Ellipse_12-6" data-name="Ellipse 12" cx="2.468" cy="2.468" rx="2.468" ry="2.468" transform="translate(4.72 4.321)" fill="#022852"/>
+            <path id="Path_2039-6" data-name="Path 2039" d="M0,6.012C2.192,4.746,6.749-.966,14.385,5.945,12.913.451,4.733-4.124,0,6.012Z" transform="translate(0 0)" fill="#022852"/>
+          </g>
+          <g id="Group_3181" data-name="Group 3181" transform="translate(0.826 11.116) rotate(-45)">
+            <ellipse id="Ellipse_12-7" data-name="Ellipse 12" cx="2.468" cy="2.468" rx="2.468" ry="2.468" transform="translate(4.72 0)" fill="#022852"/>
+            <path id="Path_2039-7" data-name="Path 2039" d="M0,0C2.192,1.266,6.749,6.977,14.385.066,12.913,5.56,4.733,10.136,0,0Z" transform="translate(0 3.246)" fill="#022852"/>
+          </g>
+          <g id="Group_3175" data-name="Group 3175" transform="translate(13.244 31.99)">
+            <circle id="Ellipse_12-8" data-name="Ellipse 12" cx="2.468" cy="2.468" r="2.468" transform="translate(4.72 4.321)" fill="#022852"/>
+            <path id="Path_2039-8" data-name="Path 2039" d="M-16346.724-4012.8c2.192-1.266,6.749-6.977,14.385-.066C-16333.81-4018.355-16341.99-4022.931-16346.724-4012.8Z" transform="translate(16346.724 4018.806)" fill="#022852"/>
+          </g>
+        </g>
+        <text id="AIML_Nepal_" data-name="AIML Nepal " transform="translate(55.72 29.297)" fill="#022852" font-size="24" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">AIML NEPAL </tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
