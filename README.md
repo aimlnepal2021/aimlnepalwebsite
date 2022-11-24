@@ -1,4 +1,2 @@
 # aimlnepalwebsite
-# aimlnepalwebsite
-# aimlnepalwebsite
-# aimlnepalwebsite
+ code for aimlnepal.com
